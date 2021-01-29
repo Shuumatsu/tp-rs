@@ -1,0 +1,7 @@
+# single_line_if_else_max_width = "100%""
+# fn_params_layout = "Compressed"
+fn_single_line = true
+# max_width = 140
+# width_heuristics = "Max"
+blank_lines_upper_bound = 1
+use_small_heuristics = "Max"
